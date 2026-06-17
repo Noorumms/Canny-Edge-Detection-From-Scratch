@@ -1,2 +1,15 @@
 # Canny-Edge-Detection-From-Scratch
-Complete implementation of the Canny Edge Detection algorithm in Python using NumPy and OpenCV without relying on OpenCV's built-in Canny function.
+
+## Concepts Covered
+
+- Image Processing
+- Computer Vision Fundamentals
+- Gaussian Smoothing
+- Sobel Operators
+- Gradient Computation
+- Non-Maximum Suppression
+- Double Thresholding
+- Hysteresis Edge Tracking
+- NumPy
+- OpenCV
+- Matplotlib
